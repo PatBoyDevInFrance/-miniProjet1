@@ -1,8 +1,11 @@
 <?php
 
-    echo " Voici ma page d'accueil ";
-
-
+    echo " Voici ma page d'accueil<br> ";
+    echo " Voici ma page d'accueil<br> ";
+    echo " Voici ma page d'accueil<br> ";
+    echo " Voici ma page d'accueil<br> ";
+    echo " Voici ma page d'accueil<br> ";
+    
 
 ?>
 
