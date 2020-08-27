@@ -4,8 +4,8 @@
     echo " Voici ma page d'accueil<br> ";
     echo " Voici ma page d'accueil<br> ";
     echo " Voici ma page d'accueil<br> ";
-    echo " Voici ma page d'accueil<br> ";
-    
+    echo "<b> Voici ma page d'accueil<br></b> ";
+
 
 ?>
 
